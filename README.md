@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanju500
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning AWS architect solutions
+- 👀 I’m interested in quant research and development
+- 🌱 I’m currently learning machine learning to use it in quant field.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedin -> https://www.linkedin.com/in/sanjeev-kumar-041b2a17b/ 
 
